@@ -1,0 +1,25 @@
+# Front Door AI Index — destiny-the-game — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: destiny-the-game
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: bungie-net.github.io
+  final_host: bungie-net.github.io
+  ownership: own
+  owner: destiny-the-game
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 8
+  host_score: 8
+  density: 0.14
+  words: 57145
+  tiers:
+    agentic: 8
+    core: 0
+    model: 0
+  ambiguous: 0
+  top_terms:
+    prompts: 8
