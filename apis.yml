@@ -40,7 +40,8 @@ apis:
   - name: Destiny The Game
     description: "Bungie Platform API"
     humanURL: https://bungie-net.github.io/multi/index.html
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
